@@ -1,3 +1,4 @@
+<!--通过litepal来实现数据库时所需要的映射-->
 <litepal>
     <!--数据库名称-->
     <dbname value="cool_weather"/>
